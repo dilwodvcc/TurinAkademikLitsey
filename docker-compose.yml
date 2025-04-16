@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+    turin_web:
+        container_name: turin_web
+        image: nginx:alpine
+        ports:
+            - "8080:80"
+        volumes:
+            - ./:/var/www
+            - ./docker/nginx.conf:/etc/nginx/conf.d/default.conf
+        depends_on:
+            - turin_app
+        networks:
+            - turin_network
+
+    turin_app:
+        container_name: turin_app
+        build:
+            context: .
+            dockerfile: ./docker/Dockerfile
+        depends_on:
+            - turin_db
+        volumes:
+            - ./:/var/www
+        networks:
+            - turin_network
+        ports:
+            - "9081:9000"
+
+    turin_db:
+        image: mysql:latest
+        container_name: turin_db
+        restart: unless-stopped
+        environment:
+            MYSQL_DATABASE: ${DB_DATABASE}
+            MYSQL_PASSWORD: ${DB_PASSWORD}
+            MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+        volumes:
+            - turin_database:/var/lib/mysql
+        networks:
+            - turin_network
+        expose:
+            - 3344
+
+networks:
+    turin_network:
+        driver: bridge
+
+volumes:
+    turin_database:
