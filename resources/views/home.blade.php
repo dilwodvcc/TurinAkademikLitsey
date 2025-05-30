@@ -547,11 +547,11 @@
         <div class="absolute inset-0 gradient-overlay flex flex-col items-center justify-center text-white">
           <p class="text-white mb-4 flex items-center font-light tracking-widest uppercase text-sm">
             <span class="mr-2"><i class="fas fa-graduation-cap"></i></span>
-            knowledge meets innovation
+              bilim innovatsiyaga yo‘li
           </p>
-          <h2 class="text-6xl md:text-7xl font-serif mb-4 text-center hero-text-shadow font-bold">EXPLORE YOUR FUTURE</h2>
-          <h3 class="text-5xl md:text-6xl font-serif mb-10 text-center hero-text-shadow">AT UNIPIX</h3>
-          <p class="text-lg max-w-2xl text-center mb-12 font-light">Nurturing minds, creating leaders. Join our vibrant academic community today.</p>
+            <h3 class="text-5xl md:text-6xl font-serif mb-10 text-center hero-text-shadow">TURIN litseyi bilan</h3>
+            <h2 class="text-6xl md:text-7xl font-serif mb-4 text-center hero-text-shadow font-bold">Kelajagingni kashf et</h2>
+          <p class="text-lg max-w-2xl text-center mb-12 font-light">Zehinlilarni tarbiyalaymiz, yetakchilarni voyaga yetkazamiz. Bugunoq jonli va faol akademik hamjamiyatimizga qo‘shiling.</p>
         </div>
       </div>
 
@@ -561,11 +561,11 @@
         <div class="absolute inset-0 gradient-overlay flex flex-col items-center justify-center text-white">
           <p class="text-white mb-4 flex items-center font-light tracking-widest uppercase text-sm">
             <span class="mr-2"><i class="fas fa-users"></i></span>
-            community & excellence
+              Birlik va mukammallik
           </p>
-          <h2 class="text-6xl md:text-7xl font-serif mb-4 text-center hero-text-shadow font-bold">DISCOVER YOUR PASSION</h2>
-          <h3 class="text-5xl md:text-6xl font-serif mb-10 text-center hero-text-shadow">WITH US</h3>
-          <p class="text-lg max-w-2xl text-center mb-12 font-light">From arts to sciences, find your calling in our supportive environment.</p>
+            <h3 class="text-5xl md:text-6xl font-serif mb-10 text-center hero-text-shadow">Biz bilan</h3>
+            <h2 class="text-6xl md:text-7xl font-serif mb-4 text-center hero-text-shadow font-bold">O‘z ishtiyoqingni angla</h2>
+          <p class="text-lg max-w-2xl text-center mb-12 font-light">Huradan tortib fanlargacha – bizning qo‘llab-quvvatlovchi muhitimizda o‘z yo‘lingizni toping.</p>
         </div>
       </div>
 
@@ -575,11 +575,11 @@
         <div class="absolute inset-0 gradient-overlay flex flex-col items-center justify-center text-white">
           <p class="text-white mb-4 flex items-center font-light tracking-widest uppercase text-sm">
             <span class="mr-2"><i class="fas fa-microscope"></i></span>
-            research & innovation
+              Tadqiqot va innovatsiya
           </p>
-          <h2 class="text-6xl md:text-7xl font-serif mb-4 text-center hero-text-shadow font-bold">SHAPE TOMORROW</h2>
-          <h3 class="text-5xl md:text-6xl font-serif mb-10 text-center hero-text-shadow">TODAY</h3>
-          <p class="text-lg max-w-2xl text-center mb-12 font-light">Our cutting-edge facilities support groundbreaking research and innovation.</p>
+          <h2 class="text-6xl md:text-7xl font-serif mb-4 text-center hero-text-shadow font-bold">Ertangi kuningni</h2>
+          <h3 class="text-5xl md:text-6xl font-serif mb-10 text-center hero-text-shadow">Bugun qur</h3>
+          <p class="text-lg max-w-2xl text-center mb-12 font-light">Zamonaviy jihozlangan infratuzilmamiz ilg‘or tadqiqotlar va innovatsiyalarni qo‘llab-quvvatlaydi.</p>
         </div>
       </div>
     </div>
@@ -715,199 +715,132 @@
 
   <!-- Footer -->
   <!-- Footer with improved design -->
-<footer id="contact" class="bg-gradient-to-b from-turin-dark to-gray-900 text-white py-16">
-  <!-- Top Footer Section with Logo and Quick Info -->
-  <div class="container mx-auto px-6 mb-10">
-    <div class="flex flex-col md:flex-row items-center justify-between border-b border-gray-700 pb-10">
-      <!-- Logo Section -->
-      <div class="flex items-center mb-6 md:mb-0">
-        <div class="mr-6">
-          <div class="w-16 h-16 rounded-full border-2 border-white flex items-center justify-center bg-white bg-opacity-10 backdrop-blur-sm">
-            <div class="text-2xl font-serif font-bold text-white">U</div>
+  <footer id="contact" class="bg-gradient-to-b from-turin-dark to-gray-900 text-white py-16">
+      <!-- Top Footer Section with Logo and Quick Info -->
+      <div class="container mx-auto px-6 mb-10">
+          <div class="flex flex-col md:flex-row items-center justify-between border-b border-gray-700 pb-10">
+              <!-- Logo Section -->
+              <div class="flex items-center mb-6 md:mb-0">
+                  <div class="mr-6">
+                      <div class="w-16 h-16 rounded-full border-2 border-white flex items-center justify-center bg-white bg-opacity-10 backdrop-blur-sm">
+                          <div class="text-2xl font-serif font-bold text-white">T</div>
+                      </div>
+                  </div>
+                  <div>
+                      <div class="text-3xl font-serif font-bold text-white">TTPU</div>
+                      <div class="text-sm tracking-widest text-gray-300">Akademik Litsey</div>
+                  </div>
+              </div>
+
+              <!-- Quick Contact -->
+              <div class="flex flex-wrap justify-center gap-6">
+                  <div class="flex items-center bg-white bg-opacity-10 rounded-lg px-4 py-3">
+                      <div class="bg-unipix-light p-2 rounded-full mr-3">
+                          <i class="fas fa-phone-alt text-white"></i>
+                      </div>
+                      <div>
+                          <div class="text-gray-400 text-xs">Telefon</div>
+                          <a href="tel:+13125550123" class="text-white hover:text-unipix-light transition-colors duration-300">(+99871) 246-23-31</a>
+                      </div>
+                  </div>
+
+                  <div class="flex items-center bg-white bg-opacity-10 rounded-lg px-4 py-3">
+                      <div class="bg-unipix-light p-2 rounded-full mr-3">
+                          <i class="fas fa-envelope text-white"></i>
+                      </div>
+                      <div>
+                          <div class="text-gray-400 text-xs">Email</div>
+                          <a href="mailto:info@unipix.edu" class="text-white hover:text-unipix-light transition-colors duration-300">info@turinal.uz</a>
+                      </div>
+                  </div>
+              </div>
           </div>
-        </div>
-        <div>
-          <div class="text-3xl font-serif font-bold text-white">UNIPIX</div>
-          <div class="text-sm tracking-widest text-gray-300">SCHOOL & COLLEGE</div>
-        </div>
       </div>
 
-      <!-- Quick Contact -->
-      <div class="flex flex-wrap justify-center gap-6">
-        <div class="flex items-center bg-white bg-opacity-10 rounded-lg px-4 py-3">
-          <div class="bg-unipix-light p-2 rounded-full mr-3">
-            <i class="fas fa-phone-alt text-white"></i>
-          </div>
+      <!-- Main Footer Content -->
+      <div class="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-10 px-6">
+          <!-- Column 1 - About -->
           <div>
-            <div class="text-gray-400 text-xs">Call Us</div>
-            <a href="tel:+13125550123" class="text-white hover:text-unipix-light transition-colors duration-300">+1 (312) 555-0123</a>
+              <h3 class="text-xl font-bold mb-6 relative">
+                  <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
+                  Litsey haqida
+              </h3>
+              <p class="text-gray-300 mb-6 leading-relaxed">
+                  Turin akademik litseyi O'zbekiston va Italiya hamkorligidagi nufuzli ta'lim muassasasi bo'lib, zamonaviy ta'lim va innovatsion yondashuvlarga asoslangan.
+              </p>
+              <div class="flex space-x-3 mt-4">
+                  <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
+                      <i class="fab fa-facebook-f"></i>
+                  </a>
+                  <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
+                      <i class="fab fa-linkedin-in"></i>
+                  </a>
+                  <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
+                      <i class="fab fa-youtube"></i>
+                  </a>
+                  <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
+                      <i class="fab fa-twitter"></i>
+                  </a>
+              </div>
           </div>
-        </div>
 
-        <div class="flex items-center bg-white bg-opacity-10 rounded-lg px-4 py-3">
-          <div class="bg-unipix-light p-2 rounded-full mr-3">
-            <i class="fas fa-envelope text-white"></i>
-          </div>
+          <!-- Column 3 - Our Programs -->
           <div>
-            <div class="text-gray-400 text-xs">Email Us</div>
-            <a href="mailto:info@unipix.edu" class="text-white hover:text-unipix-light transition-colors duration-300">info@unipix.edu</a>
+              <h3 class="text-xl font-bold mb-6 relative">
+                  <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
+                  Ta'lim yo'nalishlari
+              </h3>
+              <ul class="space-y-3">
+                  <li>
+                      <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
+                          <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
+                          Kompyuter texnologiyalari va muhandislik
+                      </a>
+                  </li>
+                  <li>
+                      <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
+                          <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
+                          Iqtisodiyot va tabiy fanlar
+                      </a>
+                  </li>
+              </ul>
           </div>
-        </div>
 
-        <div class="flex items-center bg-white bg-opacity-10 rounded-lg px-4 py-3">
-          <div class="bg-unipix-light p-2 rounded-full mr-3">
-            <i class="fas fa-map-marker-alt text-white"></i>
-          </div>
+          <!-- Column 4 - Newsletter Signup -->
           <div>
-            <div class="text-gray-400 text-xs">Our Location</div>
-            <div class="text-white">Chicago, IL 60605</div>
+              <h3 class="text-xl font-bold mb-6 relative">
+                  <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
+                  Aloqada qoling
+              </h3>
+              <p class="text-gray-300 mb-6">
+                  Turin Politexnika Universitetining Toshkent shahridagi filiali haqida yangiliklar, tadbirlar va e’lonnardan xabardor bo‘lish uchun obuna bo‘ling.
+              </p>
+              <div class="flex justify-between items-center">
+                  <p class="text-gray-400 text-sm">
+                      <i class="fas fa-headset mr-2 text-unipix-light"></i> Yordam xizmati: 24/7 faol
+                  </p>
+                  <a href="tel:+998712462331" class="bg-unipix-light text-white px-4 py-2 rounded-lg hover:bg-unipix-blue transition-colors duration-300">
+                      Bog‘lanish
+                  </a>
+              </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
-  <!-- Main Footer Content -->
-  <div class="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-10 px-6">
-    <!-- Column 1 - About -->
-    <div>
-      <h3 class="text-xl font-bold mb-6 relative">
-        <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
-        About UNIPIX
-      </h3>
-      <p class="text-gray-300 mb-6 leading-relaxed">
-        Empowering minds, shaping futures. Our institution is dedicated to excellence in education, research, and innovation since 2000.
-      </p>
-      <div class="flex space-x-3 mt-4">
-        <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
-          <i class="fab fa-facebook-f"></i>
-        </a>
-        <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-        <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
-          <i class="fab fa-youtube"></i>
-        </a>
-        <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
-          <i class="fab fa-twitter"></i>
-        </a>
       </div>
-    </div>
 
-    <!-- Column 2 - Quick Links -->
-    <div>
-      <h3 class="text-xl font-bold mb-6 relative">
-        <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
-        Quick Links
-      </h3>
-      <div class="grid grid-cols-2 gap-2">
-        <a href="#" class="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 flex items-center">
-          <i class="fas fa-chevron-right text-xs mr-2 text-unipix-light"></i> Admissions
-        </a>
-        <a href="#" class="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 flex items-center">
-          <i class="fas fa-chevron-right text-xs mr-2 text-unipix-light"></i> Campus Map
-        </a>
-        <a href="#" class="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 flex items-center">
-          <i class="fas fa-chevron-right text-xs mr-2 text-unipix-light"></i> Calendar
-        </a>
-        <a href="#" class="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 flex items-center">
-          <i class="fas fa-chevron-right text-xs mr-2 text-unipix-light"></i> Library
-        </a>
-        <a href="#" class="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 flex items-center">
-          <i class="fas fa-chevron-right text-xs mr-2 text-unipix-light"></i> Academics
-        </a>
-        <a href="#" class="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 flex items-center">
-          <i class="fas fa-chevron-right text-xs mr-2 text-unipix-light"></i> Portal
-        </a>
-        <a href="#" class="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 flex items-center">
-          <i class="fas fa-chevron-right text-xs mr-2 text-unipix-light"></i> Faculty
-        </a>
-        <a href="#" class="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 flex items-center">
-          <i class="fas fa-chevron-right text-xs mr-2 text-unipix-light"></i> Careers
-        </a>
+      <!-- Bottom Footer -->
+      <div class="container mx-auto mt-12 pt-6 border-t border-gray-800 px-6">
+          <div class="flex flex-col md:flex-row justify-between items-center">
+              <p class="text-gray-400 mb-4 md:mb-0">
+                  © 2025 Turin Politexnika Universitetining Toshkent shahridagi filiali. Barcha huquqlar himoyalangan.
+              </p>
+              <div class="flex space-x-6">
+                  <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Maxfiylik siyosati</a>
+                  <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Foydalanish shartlari</a>
+                  <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Cookie siyosati</a>
+              </div>
+          </div>
       </div>
-    </div>
-
-    <!-- Column 3 - Our Programs -->
-    <div>
-      <h3 class="text-xl font-bold mb-6 relative">
-        <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
-        Our Programs
-      </h3>
-      <ul class="space-y-3">
-        <li>
-          <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
-            <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
-            Computer Science & Engineering
-          </a>
-        </li>
-        <li>
-          <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
-            <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
-            Business Administration
-          </a>
-        </li>
-        <li>
-          <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
-            <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
-            Life Sciences & Biotechnology
-          </a>
-        </li>
-        <li>
-          <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
-            <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
-            Arts & Humanities
-          </a>
-        </li>
-        <li>
-          <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
-            <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
-            Engineering & Applied Sciences
-          </a>
-        </li>
-      </ul>
-    </div>
-
-    <!-- Column 4 - Newsletter Signup -->
-    <div>
-      <h3 class="text-xl font-bold mb-6 relative">
-        <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
-        Stay Connected
-      </h3>
-      <p class="text-gray-300 mb-6">
-        Subscribe to our newsletter for the latest updates, events, and news from UNIPIX.
-      </p>
-      <form class="relative mb-8">
-        <input type="email" placeholder="Enter your email" class="w-full p-4 rounded-lg bg-white bg-opacity-10 border border-gray-700 text-white placeholder-gray-400 focus:outline-none focus:border-unipix-light">
-        <button type="submit" class="absolute right-2 top-1/2 transform -translate-y-1/2 bg-unipix-light hover:bg-unipix-blue text-white p-2 rounded-lg transition-colors duration-300">
-          <i class="fas fa-paper-plane"></i>
-        </button>
-      </form>
-      <div class="flex justify-between items-center">
-        <p class="text-gray-400 text-sm">
-          <i class="fas fa-headset mr-2 text-unipix-light"></i> 24/7 Support Available
-        </p>
-        <a href="#" class="bg-unipix-light text-white px-4 py-2 rounded-lg hover:bg-unipix-blue transition-colors duration-300">
-          Contact Us
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Bottom Footer -->
-  <div class="container mx-auto mt-12 pt-6 border-t border-gray-800 px-6">
-    <div class="flex flex-col md:flex-row justify-between items-center">
-      <p class="text-gray-400 mb-4 md:mb-0">
-        © 2025 UNIPIX School & College. All rights reserved.
-      </p>
-      <div class="flex space-x-6">
-        <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Privacy Policy</a>
-        <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Terms of Service</a>
-        <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Cookie Policy</a>
-      </div>
-    </div>
-  </div>
-</footer>
+  </footer>
 
   <!-- JavaScript for Sliders -->
   <script>

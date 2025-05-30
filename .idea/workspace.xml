@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b96fa2ec-2856-47bf-8083-1f11f0d3e407" name="Changes" comment="" />
+    <list default="true" id="b96fa2ec-2856-47bf-8083-1f11f0d3e407" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Dars.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Dars.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teachers.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/teachers.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/yutuqlar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/yutuqlar.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,7 +249,8 @@
       <workItem from="1745314769693" duration="1636000" />
       <workItem from="1748380696828" duration="16000" />
       <workItem from="1748380768081" duration="729000" />
-      <workItem from="1748428459825" duration="2701000" />
+      <workItem from="1748428459825" duration="6803000" />
+      <workItem from="1748625446301" duration="8348000" />
     </task>
     <servers />
   </component>
@@ -251,5 +259,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="nginx.conf" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/teachers.blade.php</url>
+          <line>480</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

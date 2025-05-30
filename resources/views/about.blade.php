@@ -596,7 +596,7 @@
 
     <!-- Hero Section -->
     <section class="bg-blue-900 text-white text-center py-20">
-        <h1 class="text-5xl font-bold">Welcome to Turin Akademik litsey</h1>
+        <h1 class="text-5xl font-bold">Turin Akademik litseyiga xush kelibsiz!</h1>
         <p class="text-lg mt-4">Turin litseyi innovatsiya ta'limning mukammalligiga javob beradi</p>
     </section>
 
@@ -625,8 +625,8 @@
                 <p class="text-gray-600 mt-2">Bizning zamonaviy ilmiy laboratoriyamiz endi talabalar uchun ochiq.</p>
             </div>
             <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition">
-                <h3 class="text-xl font-semibold">Grantlar Uchun Arizalar Ochiq</h3>
-                <p class="text-gray-600 mt-2">2026 yilgi akademik stipendiyalarimizga hozir murojaat qiling.</p>
+                <h3 class="text-xl font-semibold">Yangi o‘quv yili uchun qabul ochiq</h3>
+                <p class="text-gray-600 mt-2">Biz bilan birga bilim olishingiz uchun hoziroq ro‘yxatdan o‘ting va kelajak sari birinchi qadamni qo‘ying.</p>
             </div>
             <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition">
                 <h3 class="text-xl font-semibold">2025 Yilgi Sport Kuni</h3>
@@ -663,14 +663,20 @@
     <!-- Spoon Collection Section -->
     <section class="py-16 bg-gray-100">
         <div class="container mx-auto px-4">
-            <h2 class="text-3xl font-bold mb-8 text-center text-blue-900">UNIPIX Spoon Collection</h2>
-            <p class="text-center mb-12 max-w-2xl mx-auto text-gray-600">Our faculty members are more than just educators — they are innovators, mentors, and lifelong learners.
-                Each brings a distinctive blend of academic expertise, real-world experience, and a passion for student success. Their collaborative spirit and dedication to excellence shape an environment where knowledge thrives, creativity is encouraged, and every student is empowered to reach their full potential.</p>
+            <h2 class="text-3xl font-bold mb-8 text-center text-blue-900">Turin Akademik Litseyi Ta’lim Koleksiyasi</h2>
+            <p class="text-center mb-12 max-w-2xl mx-auto text-gray-600">
+                Bizning o‘qituvchilarimiz faqat bilim beruvchilar emas — ular innovatorlar, murabbiylar va umrboqiy o‘rganuvchilardir.
+                Har biri o‘zining akademik bilimlari, amaliy tajribasi va talaba muvaffaqiyatiga bo‘lgan ishtiyoqi bilan ajralib turadi.
+                Ularning hamkorlik ruhi va a’lo darajadagi mehnati bilim rivojlanadigan, ijodiy fikrlash rag‘batlantiriladigan,
+                har bir talabaga o‘z imkoniyatlarini to‘liq ro‘yobga chiqarishga ko‘mak beradigan muhit yaratadi.
+            </p>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="bg-white p-6 rounded-lg shadow-lg">
-                    <h3 class="text-xl font-semibold mb-4 text-blue-900">The Mathematics Spoon</h3>
-                    <p class="mb-4 text-gray-600">This golden spoon symbolizes precision and logic, used by our mathematicians to inspire analytical thinking in students.</p>
+                    <h3 class="text-xl font-semibold mb-4 text-blue-900">Matematika Qoshiqchasi</h3>
+                    <p class="mb-4 text-gray-600">
+                        Ushbu oltin qoshiqchacha aniqlik va mantiq ramzidir, matematiklarimiz tomonidan talabalarda tahliliy fikrlashni ilhomlantirish uchun ishlatiladi.
+                    </p>
                     <div class="flex justify-center">
                         <svg height="80" viewBox="0 0 24 24" fill="gold" xmlns="http://www.w3.org/2000/svg">
                             <path d="M15.5 2C13 2 11 3.5 11 6.5C11 8.5 12 10.8 14 12L12.5 22H15.5L17 12C19 10.8 20 8.5 20 6.5C20 3.5 18 2 15.5 2Z"/>
@@ -679,8 +685,10 @@
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-lg">
-                    <h3 class="text-xl font-semibold mb-4 text-blue-900">The Science Spoon</h3>
-                    <p class="mb-4 text-gray-600">This green spoon represents growth and discovery, used by our scientists to stir curiosity in the lab.</p>
+                    <h3 class="text-xl font-semibold mb-4 text-blue-900">Fan Qoshiqchasi</h3>
+                    <p class="mb-4 text-gray-600">
+                        Ushbu yashil qoshiqchacha o‘sish va kashfiyot ramzidir, olimlarimiz laboratoriyada qiziquvchanlikni uyg‘otish uchun foydalanadi.
+                    </p>
                     <div class="flex justify-center">
                         <svg height="80" viewBox="0 0 24 24" fill="#00FF00" xmlns="http://www.w3.org/2000/svg">
                             <path d="M15.5 2C13 2 11 3.5 11 6.5C11 8.5 12 10.8 14 12L12.5 22H15.5L17 12C19 10.8 20 8.5 20 6.5C20 3.5 18 2 15.5 2Z"/>
@@ -689,8 +697,10 @@
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-lg">
-                    <h3 class="text-xl font-semibold mb-4 text-blue-900">The Literature Spoon</h3>
-                    <p class="mb-4 text-gray-600">This pink spoon embodies creativity and expression, used by our literature professors to inspire imagination.</p>
+                    <h3 class="text-xl font-semibold mb-4 text-blue-900">Adabiyot Qoshiqchasi</h3>
+                    <p class="mb-4 text-gray-600">
+                        Ushbu pushti qoshiqchacha ijodkorlik va ifodaning ramzidir, adabiyot o‘qituvchilarimiz talabalarda tasavvur kuchini uyg‘otadi.
+                    </p>
                     <div class="flex justify-center">
                         <svg height="80" viewBox="0 0 24 24" fill="#FF69B4" xmlns="http://www.w3.org/2000/svg">
                             <path d="M15.5 2C13 2 11 3.5 11 6.5C11 8.5 12 10.8 14 12L12.5 22H15.5L17 12C19 10.8 20 8.5 20 6.5C20 3.5 18 2 15.5 2Z"/>
@@ -704,122 +714,128 @@
     <!-- Footer -->
     <!-- Footer with improved design -->
     <!-- Enhanced Footer -->
-    <footer class="footer">
-        <div class="footer-top">
-            <div class="container mx-auto px-6">
-                <!-- Top Footer Section -->
-                <div class="flex flex-col md:flex-row justify-between items-start mb-12 pb-12 border-b border-gray-700">
-                    <!-- Logo and Description -->
-                    <div class="mb-10 md:mb-0 md:w-1/3 pr-6">
-                        <div class="footer-logo">
-                            <div class="footer-logo-circle">
-                                <span class="text-university-blue text-2xl font-bold">T</span>
-                            </div>
-                            <div>
-                                <div class="text-2xl font-bold">TURIN</div>
-                                <div class="text-sm text-gray-300">ACADEMIC LYCEUM</div>
-                            </div>
+    <footer id="contact" class="bg-gradient-to-b from-turin-dark to-gray-900 text-white py-16">
+        <!-- Top Footer Section with Logo and Quick Info -->
+        <div class="container mx-auto px-6 mb-10">
+            <div class="flex flex-col md:flex-row items-center justify-between border-b border-gray-700 pb-10">
+                <!-- Logo Section -->
+                <div class="flex items-center mb-6 md:mb-0">
+                    <div class="mr-6">
+                        <div class="w-16 h-16 rounded-full border-2 border-white flex items-center justify-center bg-white bg-opacity-10 backdrop-blur-sm">
+                            <div class="text-2xl font-serif font-bold text-white">T</div>
                         </div>
-                        <p class="text-gray-300 mb-6">
-                            Turin akademik litseyi O'zbekiston va Italiya hamkorligidagi nufuzli ta'lim muassasasi bo'lib, zamonaviy ta'lim va innovatsion yondashuvlarga asoslangan.
-                        </p>
-                        <div class="flex space-x-4">
-                            <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-university-blue transition-all duration-300">
-                                <i class="fab fa-telegram"></i>
-                            </a>
-                            <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-university-blue transition-all duration-300">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                            <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-university-blue transition-all duration-300">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                            <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-university-blue transition-all duration-300">
-                                <i class="fab fa-instagram"></i>
-                            </a>
+                    </div>
+                    <div>
+                        <div class="text-3xl font-serif font-bold text-white">TTPU</div>
+                        <div class="text-sm tracking-widest text-gray-300">Akademik Litsey</div>
+                    </div>
+                </div>
+
+                <!-- Quick Contact -->
+                <div class="flex flex-wrap justify-center gap-6">
+                    <div class="flex items-center bg-white bg-opacity-10 rounded-lg px-4 py-3">
+                        <div class="bg-unipix-light p-2 rounded-full mr-3">
+                            <i class="fas fa-phone-alt text-white"></i>
+                        </div>
+                        <div>
+                            <div class="text-gray-400 text-xs">Telefon</div>
+                            <a href="tel:+13125550123" class="text-white hover:text-unipix-light transition-colors duration-300">(+99871) 246-23-31</a>
                         </div>
                     </div>
 
-                    <!-- Quick Contact -->
-                    <div class="mb-10 md:mb-0 md:w-1/3">
-                        <h3 class="footer-heading text-xl font-bold">Tezkor aloqa</h3>
-                        <div class="space-y-6">
-                            <div class="flex items-center">
-                                <div class="bg-university-blue p-3 rounded-full mr-4">
-                                    <i class="fas fa-map-marker-alt text-white"></i>
-                                </div>
-                                <div>
-                                    <div class="text-gray-400 text-sm">Manzil</div>
-                                    <div class="text-white">O'zbekiston, Toshkent, Olmazor tumani, Umid ko'chasi 1A</div>
-                                </div>
-                            </div>
-
-                            <div class="flex items-center">
-                                <div class="bg-university-blue p-3 rounded-full mr-4">
-                                    <i class="fas fa-phone-alt text-white"></i>
-                                </div>
-                                <div>
-                                    <div class="text-gray-400 text-sm">Telefon</div>
-                                    <div class="text-white">(+99871) 246-23-31</div>
-                                </div>
-                            </div>
-
-                            <div class="flex items-center">
-                                <div class="bg-university-blue p-3 rounded-full mr-4">
-                                    <i class="fas fa-envelope text-white"></i>
-                                </div>
-                                <div>
-                                    <div class="text-gray-400 text-sm">Email</div>
-                                    <a href="mailto:turinlitsey@polito.uz" class="text-white hover:text-blue-300 transition-colors duration-300">turinlitsey@polito.uz</a>
-                                </div>
-                            </div>
+                    <div class="flex items-center bg-white bg-opacity-10 rounded-lg px-4 py-3">
+                        <div class="bg-unipix-light p-2 rounded-full mr-3">
+                            <i class="fas fa-envelope text-white"></i>
                         </div>
-                    </div>
-
-                    <!-- Quick Links -->
-                    <div class="md:w-1/3">
-                        <h3 class="footer-heading text-xl font-bold">Foydali havolalar</h3>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
-                            <a href="#" class="footer-nav-item text-gray-300 hover:text-white transition-colors duration-300">
-                                <i class="fas fa-chevron-right"></i> Asosiy sahifa
-                            </a>
-                            <a href="#" class="footer-nav-item text-gray-300 hover:text-white transition-colors duration-300">
-                                <i class="fas fa-chevron-right"></i> Litsey haqida
-                            </a>
-                            <a href="#" class="footer-nav-item text-gray-300 hover:text-white transition-colors duration-300">
-                                <i class="fas fa-chevron-right"></i> Yangiliklar
-                            </a>
-                            <a href="#" class="footer-nav-item text-gray-300 hover:text-white transition-colors duration-300">
-                                <i class="fas fa-chevron-right"></i> Dars jarayonlari
-                            </a>
-                            <a href="#" class="footer-nav-item text-gray-300 hover:text-white transition-colors duration-300">
-                                <i class="fas fa-chevron-right"></i> Yutuqlar
-                            </a>
-                            <a href="#" class="footer-nav-item text-gray-300 hover:text-white transition-colors duration-300">
-                                <i class="fas fa-chevron-right"></i> Qabul
-                            </a>
-                            <a href="#" class="footer-nav-item text-gray-300 hover:text-white transition-colors duration-300">
-                                <i class="fas fa-chevron-right"></i> O'qituvchilar
-                            </a>
-                            <a href="#" class="footer-nav-item text-gray-300 hover:text-white transition-colors duration-300">
-                                <i class="fas fa-chevron-right"></i> Aloqa
-                            </a>
+                        <div>
+                            <div class="text-gray-400 text-xs">Email</div>
+                            <a href="mailto:info@unipix.edu" class="text-white hover:text-unipix-light transition-colors duration-300">info@turinal.uz</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <!-- Footer Bottom -->
-        <div class="footer-bottom">
-            <div class="container mx-auto px-6">
-                <div class="flex flex-col md:flex-row justify-between items-center">
-                    <div class="mb-4 md:mb-0">
-                        <p class="text-gray-300">&copy; 2025 Turin Academic Lyceum. Barcha huquqlar himoyalangan.</p>
-                    </div>
-                    <div class="flex items-center">
-                        <a href="#" class="text-gray-300 hover:text-white mr-4 transition-colors duration-300">Maxfiylik siyosati</a>
-                        <a href="#" class="text-gray-300 hover:text-white transition-colors duration-300">Foydalanish shartlari</a>
-                    </div>
+        <!-- Main Footer Content -->
+        <div class="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-10 px-6">
+            <!-- Column 1 - About -->
+            <div>
+                <h3 class="text-xl font-bold mb-6 relative">
+                    <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
+                    Litsey haqida
+                </h3>
+                <p class="text-gray-300 mb-6 leading-relaxed">
+                    Turin akademik litseyi O'zbekiston va Italiya hamkorligidagi nufuzli ta'lim muassasasi bo'lib, zamonaviy ta'lim va innovatsion yondashuvlarga asoslangan.
+                </p>
+                <div class="flex space-x-3 mt-4">
+                    <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                    <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                    <a href="#" class="w-10 h-10 rounded-full bg-white bg-opacity-10 flex items-center justify-center hover:bg-unipix-light transition-colors duration-300">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Column 3 - Our Programs -->
+            <div>
+                <h3 class="text-xl font-bold mb-6 relative">
+                    <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
+                    Ta'lim yo'nalishlari
+                </h3>
+                <ul class="space-y-3">
+                    <li>
+                        <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
+                            <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
+                            Kompyuter texnologiyalari va muhandislik
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="flex items-center text-gray-300 hover:text-white transition-colors duration-300 group">
+                            <span class="w-2 h-2 bg-unipix-light rounded-full mr-3 group-hover:w-3 transition-all duration-300"></span>
+                            Iqtisodiyot va tabiy fanlar
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Column 4 - Newsletter Signup -->
+            <div>
+                <h3 class="text-xl font-bold mb-6 relative">
+                    <span class="bg-unipix-light h-1 w-8 absolute -bottom-2 left-0"></span>
+                    Aloqada qoling
+                </h3>
+                <p class="text-gray-300 mb-6">
+                    Turin Politexnika Universitetining Toshkent shahridagi filiali haqida yangiliklar, tadbirlar va e’lonnardan xabardor bo‘lish uchun obuna bo‘ling.
+                </p>
+                <div class="flex justify-between items-center">
+                    <p class="text-gray-400 text-sm">
+                        <i class="fas fa-headset mr-2 text-unipix-light"></i> Yordam xizmati: 24/7 faol
+                    </p>
+                    <a href="tel:+998712462331" class="bg-unipix-light text-white px-4 py-2 rounded-lg hover:bg-unipix-blue transition-colors duration-300">
+                        Bog‘lanish
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Bottom Footer -->
+        <div class="container mx-auto mt-12 pt-6 border-t border-gray-800 px-6">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <p class="text-gray-400 mb-4 md:mb-0">
+                    © 2025 Turin Politexnika Universitetining Toshkent shahridagi filiali. Barcha huquqlar himoyalangan.
+                </p>
+                <div class="flex space-x-6">
+                    <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Maxfiylik siyosati</a>
+                    <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Foydalanish shartlari</a>
+                    <a href="#" class="text-gray-400 hover:text-white transition-colors duration-300 text-sm">Cookie siyosati</a>
                 </div>
             </div>
         </div>
