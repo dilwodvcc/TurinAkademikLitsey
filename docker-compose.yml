@@ -18,6 +18,7 @@ services:
         container_name: turin_app
         build:
             context: .
+            dockerfile: ./docker/Dockerfile
         depends_on:
             - turin_db
         volumes:
