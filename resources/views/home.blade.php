@@ -3,10 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UNIPIX School & College</title>
+  <title>Turin Akademik Litsey</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         rel="stylesheet"
@@ -509,7 +510,7 @@
         }
     </style>
 </head>
-<body class="font-sans">
+<body x-data @keydown.escape.window="$store.modal?.showModal = false">
   <!-- Navigation Bar -->
   <header>
       <div class="container">
@@ -601,6 +602,44 @@
       <i class="fas fa-chevron-right"></i>
     </button>
   </section>
+
+
+  <section class="py-20 bg-gray-50" x-data="{ showModal: false, imageUrl: '' }">
+      <div class="container mx-auto px-4">
+          <h3 class="text-4xl font-extrabold text-blue-900 mb-12 text-center">Qabul Rasmlari</h3>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10">
+              @foreach($qabulrasmis as $rasm)
+                  <div class="bg-white shadow-2xl rounded-3xl p-6 hover:shadow-3xl transition-shadow duration-300">
+                      <div class="w-full aspect-[4/5] overflow-hidden rounded-2xl border-2 border-blue-200 cursor-pointer"
+                           @click="showModal = true; imageUrl = '{{ asset('storage/' . $rasm->image) }}'">
+                          <img src="{{ asset('storage/' . $rasm->image) }}"
+                               alt="Qabul rasmi"
+                               class="w-full h-full object-cover hover:scale-110 transition-transform duration-500 rounded-2xl">
+                      </div>
+                  </div>
+              @endforeach
+          </div>
+      </div>
+
+      <!-- Modal -->
+      <div x-show="showModal"
+           class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50"
+           x-transition>
+          <div class="relative">
+              <button @click="showModal = false"
+                      class="absolute top-2 right-2 text-white text-3xl font-bold">&times;</button>
+              <img :src="imageUrl" class="max-w-screen-md max-h-screen rounded-xl border-4 border-white">
+          </div>
+      </div>
+  </section>
+
+
+
+
+
+
+
 
   <!-- About Section -->
   <section id="about" class="bg-gray-100 py-12">

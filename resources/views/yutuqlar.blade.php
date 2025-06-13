@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Turin Academic Lyceum Achievements</title>
+    <title>Turin Akademik Litsey</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -278,20 +278,20 @@
         <div class="container mx-auto px-4">
             <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
                 <div class="text-center">
-                    <div class="text-5xl font-bold text-turin-blue mb-2">150+</div>
-                    <div class="text-gray-400">Xalqaro sertifikatlar</div>
+                    <div class="text-5xl font-bold text-turin-blue mb-2">22+</div>
+                    <div class="text-gray-400">CEFR</div>
                 </div>
                 <div class="text-center">
-                    <div class="text-5xl font-bold text-turin-blue mb-2">90%</div>
+                    <div class="text-5xl font-bold text-turin-blue mb-2">97%</div>
                     <div class="text-gray-400">Universitetlarga qabul</div>
                 </div>
                 <div class="text-center">
-                    <div class="text-5xl font-bold text-turin-blue mb-2">50</div>
-                    <div class="text-gray-400">Olimpiada medallari</div>
+                    <div class="text-5xl font-bold text-turin-blue mb-2">62+</div>
+                    <div class="text-gray-400">ILTS</div>
                 </div>
                 <div class="text-center">
-                    <div class="text-5xl font-bold text-turin-blue mb-2">220+</div>
-                    <div class="text-gray-400">Akademik mukofotlar</div>
+                    <div class="text-5xl font-bold text-turin-blue mb-2">14+</div>
+                    <div class="text-gray-400">SAT</div>
                 </div>
             </div>
         </div>

@@ -37,6 +37,7 @@ use App\MoonShine\Resources\PhotoCardResource;
 use App\MoonShine\Resources\GroupResource;
 use App\MoonShine\Resources\TeacherResource;
 use App\MoonShine\Resources\HomeSliderResource;
+use App\MoonShine\Resources\QabulrasmiResource;
 
 final class MoonShineLayout extends AppLayout
 {
@@ -51,12 +52,13 @@ final class MoonShineLayout extends AppLayout
     {
         return [
             ...parent::menu(),
-            MenuItem::make('Sliders', SliderResource::class),
+            MenuItem::make('Litseyhaqida', SliderResource::class),
             MenuItem::make('Videos', VideoResource::class),
-            MenuItem::make('PhotoCards', PhotoCardResource::class),
+            MenuItem::make('Yutuqlar', PhotoCardResource::class),
             MenuItem::make('Groups', GroupResource::class),
             MenuItem::make('Teachers', TeacherResource::class),
-            MenuItem::make('HomeSliders', HomeSliderResource::class),
+            MenuItem::make('Raxbariyat', HomeSliderResource::class),
+            MenuItem::make('Qabulrasmis', QabulrasmiResource::class),
         ];
     }
 

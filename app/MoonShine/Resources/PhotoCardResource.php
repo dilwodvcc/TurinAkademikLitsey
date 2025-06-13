@@ -31,8 +31,8 @@ class PhotoCardResource extends ModelResource
     {
         return [
             ID::make()->sortable(),
-            Text::make('Sabab', 'title'),
-            Text::make('Tavsif', 'description'),
+            Text::make('Nimadan olganligi', 'title'),
+            Text::make('Qisqacha nomi', 'description'),
             Text::make('Ism', 'author'),
             Image::make('Rasm', 'image'),
         ];

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UNIPIX School & College - Home</title>
+    <title>Turin Akademik Litsey</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
     <script>
@@ -603,15 +603,15 @@
     <!-- Statistics Section -->
     <section class="container mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-3 gap-6">
         <div class="bg-white p-6 rounded-lg shadow-md stat-box text-center">
-            <h2 class="text-4xl font-bold text-blue-900">1000+</h2>
-            <p class="text-gray-600">Qabul qilingan talabalar</p>
+            <h2 class="text-4xl font-bold text-blue-900">422+</h2>
+            <p class="text-gray-600">Litsey Tahsil Oladigan O'qituvchilar</p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow-md stat-box text-center">
-            <h2 class="text-4xl font-bold text-blue-900">150+</h2>
+            <h2 class="text-4xl font-bold text-blue-900">37+</h2>
             <p class="text-gray-600">Malakali O'qituvchilar</p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow-md stat-box text-center">
-            <h2 class="text-4xl font-bold text-blue-900">98%</h2>
+            <h2 class="text-4xl font-bold text-blue-900">100%</h2>
             <p class="text-gray-600">Bitiruv Darajasi</p>
         </div>
     </section>
@@ -629,8 +629,8 @@
                 <p class="text-gray-600 mt-2">Biz bilan birga bilim olishingiz uchun hoziroq ro‘yxatdan o‘ting va kelajak sari birinchi qadamni qo‘ying.</p>
             </div>
             <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition">
-                <h3 class="text-xl font-semibold">2025 Yilgi Sport Kuni</h3>
-                <p class="text-gray-600 mt-2">Qiziqarli sport kuni tadbir keyingi oy uchun bizga qo'shiling.</p>
+                <h3 class="text-xl font-semibold">Yangi ilgi Sport Kuni</h3>
+                <p class="text-gray-600 mt-2">Qiziqarli sport kuni tadbir uchun bizga qo'shiling.</p>
             </div>
         </div>
     </section>

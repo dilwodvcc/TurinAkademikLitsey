@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Turin Academic Lyceum Teachers</title>
+    <title>Turin Akademik Litsey</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
@@ -297,20 +297,20 @@
         <div class="container mx-auto px-4">
             <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
                 <div class="text-center">
-                    <div class="text-5xl font-bold text-blue-900 mb-2">50+</div>
-                    <div class="text-gray-600">Tajriba ega o‘qituvchilar</div>
+                    <div class="text-5xl font-bold text-blue-900 mb-2">37+</div>
+                    <div class="text-gray-600">Asosiy O‘qituvchi</div>
                 </div>
                 <div class="text-center">
-                    <div class="text-5xl font-bold text-blue-900 mb-2">18</div>
-                    <div class="text-gray-600">PhD darajasiga ega mutaxassislar</div>
+                    <div class="text-5xl font-bold text-blue-900 mb-2">5+</div>
+                    <div class="text-gray-600">Ilmiy darajasi bor o‘qituvchilar</div>
                 </div>
                 <div class="text-center">
-                    <div class="text-5xl font-bold text-blue-900 mb-2">30+</div>
-                    <div class="text-gray-600">Ilmiy tadqiqotlar</div>
+                    <div class="text-5xl font-bold text-blue-900 mb-2">14+</div>
+                    <div class="text-gray-600">Bosh o‘qituvchi</div>
                 </div>
                 <div class="text-center">
-                    <div class="text-5xl font-bold text-blue-900 mb-2">15</div>
-                    <div class="text-gray-600">Mukofotlangan o‘qituvchilar</div>
+                    <div class="text-5xl font-bold text-blue-900 mb-2">4</div>
+                    <div class="text-gray-600">Tashqi o‘rindosh o‘qituvchilar</div>
                 </div>
             </div>
         </div>
